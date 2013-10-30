@@ -13,7 +13,7 @@
   "scripts": {
     "pretest": "node build.js",
     "prepublish": "node build.js",
-    "test": "tap test/url.js"
+    "test": "tap test/url.js",
     "postinstall": "node build.js"
   },
   "bin": {
