@@ -22,11 +22,11 @@
   "dependencies": {
     "canvas": ">= 0.4.3",
     "colors": "*",
-    "bops": "0.0.6"
+    "bops": "0.0.6",
+    "browserify": "*"
   },
   "devDependencies": {
     "express": "*",
-    "browserify": "*",
     "uglify-js": "*",
     "canvasutil": "*",
     "tap": "*"
