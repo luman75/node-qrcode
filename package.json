@@ -24,12 +24,12 @@
     "colors": "*",
     "bops": "0.0.6",
     "browserify": "*"
-  },
-  "devDependencies": {
-    "express": "*",
     "uglify-js": "*",
     "canvasutil": "*",
     "tap": "*"
+  },
+  "devDependencies": {
+    "express": "*"
   },
   "repository": {
     "type": "git",
