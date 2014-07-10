@@ -1,7 +1,7 @@
 {
   "name": "qrcode",
   "description": "QRCode / 2d Barcode api with both server side and client side support using canvas",
-  "version": "0.2.8",
+  "version": "0.2.8.1",
   "author": "Ryan Day <soldair@gmail.com>",
   "keywords": [
     "canvas",
@@ -21,15 +21,15 @@
   },
   "dependencies": {
     "canvas": ">= 0.4.3",
-    "colors": "*",
+    "colors": "~0.6.2",
     "bops": "0.0.6",
-    "browserify": "*",
-    "uglify-js": "*",
-    "canvasutil": "*",
-    "tap": "*"
+    "browserify": "~4.2.0",
+    "uglify-js": "~2.4.15",
+    "canvasutil": "0.0.4",
+    "tap": "~0.4.11",
   },
   "devDependencies": {
-    "express": "*"
+     "express": "~4.5.1"
   },
   "repository": {
     "type": "git",
