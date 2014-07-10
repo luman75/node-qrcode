@@ -26,7 +26,7 @@
     "browserify": "~4.2.0",
     "uglify-js": "~2.4.15",
     "canvasutil": "0.0.4",
-    "tap": "~0.4.11",
+    "tap": "~0.4.11"
   },
   "devDependencies": {
      "express": "~4.5.1"
